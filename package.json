@@ -1,0 +1,26 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "first node proj",
+  "main": "1",
+  "dependencies": {
+    "debug": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "2807"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanchenkoNata/Node.js_exercise.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "NPanchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanchenkoNata/Node.js_exercise/issues"
+  },
+  "homepage": "https://github.com/PanchenkoNata/Node.js_exercise#readme"
+}
